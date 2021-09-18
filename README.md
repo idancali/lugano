@@ -1,2 +1,3 @@
 # lugano
-Highly Modular Web Components
+
+Beautiful Modular Web Components
